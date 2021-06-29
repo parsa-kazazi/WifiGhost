@@ -1,0 +1,9 @@
+Required tools:
+
+Aircrack-ng
+Aireplay-ng
+reaver
+pixiewps
+Airmon-ng
+iw
+iwconfig
