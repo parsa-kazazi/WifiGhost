@@ -7,3 +7,13 @@ git clone https://github.com/parsa-kazazi/WifiGhost
 cd WifiGhost
 python3 wifighost.py
 </pre>
+Requirements:
+
+Aircrack-ng
+Aireplay-ng
+reaver
+pixiewps
+Airmon-ng
+iw
+iwconfig
+xterm
