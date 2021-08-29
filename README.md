@@ -9,11 +9,4 @@ python3 wifighost.py
 </pre>
 Requirements:
 
-Aircrack-ng
-Aireplay-ng
-reaver
-pixiewps
-Airmon-ng
-iw
-iwconfig
-xterm
+Aircrack-ng, Aireplay-ng, Airmon-ng, reaver, pixiewps, iw, iwconfig, xterm
