@@ -1,6 +1,3 @@
-#!/bin/python3
-# -*- coding: utf-8 -*-
-
 # This is a Python script for Linux systems to automate wireless auditing
 # Required tools: aircrack-ng, aireplay-ng, reaver, pixiewps, airmon-ng, iw, iwconfig
 # Suported operation systems: Kali Linux, Parrot OS, BlachArch Linux
@@ -69,7 +66,7 @@ if subprocess.getoutput("id -u") != "0":
     print("re-run as sudo. exiting.\n")
     exit_script()
 else:
-    sys.stdout.write(green + "OK" + unset_color + "\n\n")
+    sys.stdout.write(green + "YES" + unset_color + "\n\n")
 
 print("Checking required tools.\n")
 
